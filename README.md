@@ -21,8 +21,7 @@ Text Documents
       v
 Document Loading -> Chunking -> Embedding Model -> ChromaDB
                                                       |
-User Question -> Query Embedding -> Similarity Search +
-                                          |
+User Question -> Query Embedding -> Similarity Search in ChromaDB                                          |
                                           v
                                   Retrieved Context
                                           |
@@ -59,8 +58,7 @@ RAG_Uzbek_Companies/
 
 ## Requirements
 
-- Python 3.10+
-- [Ollama](https://ollama.com) installed
+- Python 3.14 (the version this project was developed and tested with)- [Ollama](https://ollama.com) installed
 - Python packages from `requirements.txt` (`chromadb`, `sentence-transformers`, `ollama`)
 
 ## Installation

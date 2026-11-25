@@ -1,0 +1,24 @@
+Ucell
+
+Source: English Wikipedia, "Ucell" (https://en.wikipedia.org/wiki/Ucell). Condensed plain-text version prepared for a RAG homework.
+
+== Key facts ==
+Industry: Telecommunications
+Headquarters: Tashkent, Uzbekistan
+Area served: Uzbekistan
+Products: Cellular network, mobile broadband
+Owner: Republic of Uzbekistan
+Website: www.ucell.uz
+
+== Overview ==
+Ucell is the largest mobile network brand in Uzbekistan. The brand is operated by the Uzbek company COSCOM. COSCOM is owned by the State Committee of the Republic of Uzbekistan for Assistance to Privatized Enterprises and Development of Competition. Ucell provides mobile telephony and mobile internet services using GSM, UMTS, HSPA, LTE and 5G technologies.
+
+== History ==
+The company was established in 1996 under the brand name Coscom.
+In 2007 Telia Company became the majority owner of the company.
+In 2008 the company was renamed Ucell.
+On 5 December 2018, Telia sold its stake in the company to the Uzbek State Committee for 215 million US dollars on a debt-free basis. At that time the company had about 1,250 employees and 7.1 million subscribers.
+Ucell's 2G network covers about 97% of the territory of Uzbekistan, and its 3G network covers about 60%.
+
+== Digital Holding ==
+On 29 September 2021, COSCOM, USM Telecom and MegaFon completed the establishment phase of a joint venture called Digital Holding.

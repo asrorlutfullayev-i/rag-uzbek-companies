@@ -1,0 +1,42 @@
+Uzum
+
+Source: English Wikipedia, "Uzum" (https://en.wikipedia.org/wiki/Uzum). Condensed plain-text version prepared for a RAG homework.
+
+== Key facts ==
+Type: Private
+Industry: E-commerce, financial technology, digital banking
+Founded: 2022
+Founders: Djasur Djumaev, Nikolay Seleznev, Roman Lavrentyev
+Headquarters: Tashkent, Uzbekistan
+Products: Uzum Market, Uzum Bank, Uzum Nasiya, Uzum Tezkor, Uzum Avto, Uzum Business
+Website: uzum.com
+
+== Overview ==
+Uzum is an Uzbek digital ecosystem company based in Tashkent. It combines e-commerce, fintech and digital banking. The word "uzum" means "grape" in the Uzbek language. As of mid-2025, Uzum had more than 17 million monthly active users, which is more than half of the population of Uzbekistan.
+
+== Products ==
+Uzum Market is an online marketplace with next-day delivery. It is described as the largest e-commerce platform in Uzbekistan by number of users and orders. Its gross merchandise value (GMV) was about 500 million US dollars in 2025.
+Uzum Tezkor is an express delivery service for food and groceries.
+Uzum Bank is a neobank (digital bank) that offers commission-free transfers and a co-branded Visa debit card. It is positioned as suitable for a largely Muslim market.
+Uzum Nasiya offers unsecured consumer loans and buy-now-pay-later instalments that comply with Islamic finance rules.
+Uzum Avto is an automotive marketplace.
+
+== History ==
+Uzum was founded in 2022 by Djasur Djumaev, who is the company's CEO. Before launching its marketplace, the company built its own logistics system, delivery fleet and network of pickup points. Uzum Market was launched in October 2022. Djumaev has said that Uzbekistan can move directly from traditional bazaar trade to digital commerce.
+
+== Funding and valuation ==
+In March 2024 Uzum raised about 114 million US dollars through a Series A equity round plus debt financing, with a post-money valuation of more than 1 billion US dollars. This made Uzum the first technology unicorn in Uzbekistan. The equity part of the round (52 million US dollars) was led by FinSight Ventures, with participation from Xanara Investment Management and the company's senior management. In the first half of 2024 Uzum had 10.6 million monthly active users across its ecosystem, net income grew by 50% year on year, marketplace GMV grew fourfold, and there were more than 10,000 active sellers. The company also announced a Series B round of up to 300 million US dollars.
+In August 2025 Uzum raised almost 70 million US dollars in equity in a round led by Tencent and VR Capital, with participation from FinSight Ventures. The post-money valuation was about 1.5 billion US dollars. In the first half of 2025 GMV reached 250 million US dollars, about 150% growth year on year.
+Uzum's revenue for the full year 2025 was reported as 691 million US dollars, compared with 505 million US dollars in 2024. Net income for 2025 was 176 million US dollars.
+In March 2026 Uzum received a strategic investment of more than 130 million US dollars led by sovereign entities of the Sultanate of Oman. The pre-money valuation was 2.3 billion US dollars, a 53% increase compared with the August 2025 round. Existing shareholders also took part.
+
+Funding rounds summary:
+- Series A + debt, March 2024, 114 million USD, led by FinSight Ventures and Xanara, valuation 1.16 billion USD
+- Equity round, August 2025, about 70 million USD, led by Tencent and VR Capital, valuation 1.5 billion USD
+- Strategic investment, March 2026, more than 130 million USD, led by Omani sovereign entities, pre-money valuation 2.3 billion USD
+
+== IPO plans ==
+In October 2025 co-founder Nikolay Seleznev, Chief Strategy and Business Development Officer, said that London had been added to the list of possible venues for a planned IPO in 2027, alongside Nasdaq, Abu Dhabi and Hong Kong.
+
+== Structure ==
+Uzum is headquartered in Tashkent. As part of its holding structure, it is registered with the Abu Dhabi Global Market (ADGM) in the United Arab Emirates.
